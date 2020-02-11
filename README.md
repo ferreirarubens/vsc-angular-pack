@@ -1,5 +1,4 @@
 # Angular Pack - The essential extensions pack for an Angular Developer
-## This is the README for your extension pack "vsc-angular-pack"
 
 [![Badge for version for Visual Studio Code extension ferreirarubens.vsc-angular-pack](https://vsmarketplacebadge.apphb.com/version-short/ferreirarubens.vsc-angular-pack.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=ferreirarubens.vsc-angular-pack&wt.mc_id=angularessentials-github-jopapa) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/ferreirarubens.vsc-angular-pack.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=ferreirarubens.vsc-angular-pack)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/ferreirarubens.vsc-angular-pack.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=ferreirarubens.vsc-angular-pack) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?color=blue&style=flat-square)](http://opensource.org/licenses/MIT)
