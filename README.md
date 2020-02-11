@@ -7,7 +7,7 @@ This extension pack for Visual Studio Code adds extensions that I believe are th
 
 Check the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
-All started when I changed my computer many times, or re-installed the Visual Studio Code, and must to find all the extensions I needed. So, I decide to get in the Extension World, and make my own Extension Pack.
+It all started when, whenever I changed computers several times or reinstalled the Visual Studio Code, I needed to find all the necessary extensions. So, I decide to enter the world of extensions and create my own extension package.
 
 There is my [Angular Pack - The essential extensions pack for an Angular Developer](https://marketplace.visualstudio.com/items?itemName=ferreirarubens.vsc-angular-pack).
 
