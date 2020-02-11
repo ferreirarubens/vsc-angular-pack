@@ -12,7 +12,7 @@
   "publisher": "ferreirarubens",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ferreiraubens/vsc-angular-pack.git"
+    "url": "https://github.com/ferreirarubens/vsc-angular-pack.git"
   },
   "engines": {
     "vscode": "^1.42.0"
@@ -25,7 +25,8 @@
     "Angular 2",
     "Angular 8",
     "TypeScript",
-    "HTML"
+    "HTML",
+    "Pack"
   ],
   "extensionPack": [
     "abusaidm.html-snippets",
