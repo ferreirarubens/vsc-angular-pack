@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="https://raw.githubusercontent.com/ferreirarubens/vsc-angular-pack/master/images/logo.png" alt="logo" width="200">
+    <img src="https://raw.githubusercontent.com/ferreirarubens/vsc-angular-pack/master/images/icon.png" alt="logo" width="100">
   <br>
   Angular Pack
   <br>
