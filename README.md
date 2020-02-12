@@ -11,6 +11,7 @@
 
 [![Badge for version for Visual Studio Code extension ferreirarubens.vsc-angular-pack](https://vsmarketplacebadge.apphb.com/version-short/ferreirarubens.vsc-angular-pack.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=ferreirarubens.vsc-angular-pack) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/ferreirarubens.vsc-angular-pack.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=ferreirarubens.vsc-angular-pack)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/ferreirarubens.vsc-angular-pack.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=ferreirarubens.vsc-angular-pack) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?color=blue&style=flat-square)](http://opensource.org/licenses/MIT)
+
 This extension pack for Visual Studio Code adds extensions that I believe are the essentials tools for an Angular developer
 
 Check the [CHANGELOG](CHANGELOG.md) for the latest changes.
