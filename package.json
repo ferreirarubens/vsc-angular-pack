@@ -3,7 +3,7 @@
   "displayName": "Angular Pack",
   "description": "The essential extensions pack for an Angular Developer",
   "version": "0.0.1",
-  "icon": "images/extension-icon.png",
+  "icon": "images/logo.png",
   "license": "SEE LICENSE IN LICENSE.md",
   "scripts": {
     "package": "npx vsce package",
