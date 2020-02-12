@@ -45,8 +45,10 @@ There is my [Angular Pack - The essential extensions pack for an Angular Develop
 
 ```json
 {
+    "prettier.semi": true,
     "prettier.singleQuote": true,
-    "prettier.semicolon": true
+    "prettier.trailingComma": "all",
+    "prettier.printWidth": 140
 }
 ```
 
