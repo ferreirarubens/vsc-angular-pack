@@ -1,13 +1,4 @@
-<h1 align="center">
-  <br>
-    <img src="https://raw.githubusercontent.com/ferreirarubens/vsc-angular-pack/master/images/icon.png" alt="logo" width="100">
-  <br>
-  Angular Pack
-  <br>
-  <br>
-</h1>
-
-<h4 align="center">Angular Pack - The essential extensions pack for an Angular Developer</h4>
+# Angular Pack - The essential extensions pack for an Angular Developer
 [![Badge for version for Visual Studio Code extension ferreirarubens.vsc-angular-pack](https://vsmarketplacebadge.apphb.com/version-short/ferreirarubens.vsc-angular-pack.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=ferreirarubens.vsc-angular-pack) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/ferreirarubens.vsc-angular-pack.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=ferreirarubens.vsc-angular-pack)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/ferreirarubens.vsc-angular-pack.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=ferreirarubens.vsc-angular-pack) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?color=blue&style=flat-square)](http://opensource.org/licenses/MIT)
 
